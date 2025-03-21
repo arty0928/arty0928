@@ -4,7 +4,6 @@
 #### Android Developer for Socially Vulnerable Groups!
 - A developer with a background in Technology Management, bringing a <b> market-oriented perspective </b> to my work
 
-<br></br>
 
 ## 📌 About Me
 - **Background in Technology Management**
