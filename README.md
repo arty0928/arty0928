@@ -60,12 +60,12 @@
 
 <br>
 
-## 🐔Projects
-|레포지토리|내용|기간|계획서|
-|------|---|---|:---:|
-|🚻[**방광곡곡**](https://github.com/arty0928/DisabledToilet_Android.git) | 장애인 화장실 위치 공유 플랫폼(Android 앱)|2024.04 ~ |[자세히](https://pastjung.notion.site/Disabled-Toilet-Android-2024-04-01-2024-12-31-159ef948eae480f1b8a7fd0148a9632b?pvs=4)|
-|👴[**효자손**](https://github.com/arty0928/Dream_Android.git) | 노인 키오스크 교육 플랫폼(Android 앱)|2023.09 ~ 2024.03 |[자세히](https://pastjung.notion.site/Dream-Android-2023-09-01-2024-03-31-159ef948eae480f1b8a7fd0148a9632b?pvs=4)|
-|👊[**너로 정했다!**](https://github.com/arty0928/Oh-no-its-me.git) | 유레카 프론트엔드 대면반 2기를 위한 익명 밸런스게임 커뮤니티(Web)|2025.03 ~ 2025.04|[자세히](https://pastjung.notion.site/Oh-no-its-me-2025-03-01-2025-04-30-159ef948eae480f1b8a7fd0148a9632b?pvs=4)|
+## 🐔 Projects
+| 레포지토리 | 유형   | 내용 | 기간 |
+|------------|--------|------|------|
+| 🚻 [**방광곡곡**](https://github.com/arty0928/DisabledToilet_Android.git) | Android | 장애인 화장실 위치 공유 플랫폼(Android 앱) | 2024.04 ~ |
+| 👴 [**효자손**](https://github.com/arty0928/Dream_Android.git) | Android | 노인 키오스크 교육 플랫폼(Android 앱) | 2023.09 ~ 2024.03 |
+| 👊 [**너로 정했다!**](https://github.com/arty0928/Oh-no-its-me.git) | Web    | 유레카 프론트엔드 대면반 2기를 위한 익명 밸런스게임 커뮤니티(Web) | 2025.03 ~ 2025.04 |
 
 <br>
 
