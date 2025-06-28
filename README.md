@@ -61,11 +61,12 @@
 <br>
 
 ## 🐔 Projects
-| 레포지토리 | 유형   | 내용 | 기간 |
-|------------|--------|------|------|
+| 프로젝트 | 플랫폼 | 설명 | 기간 |
+|----------|--------|------|------|
 | 🚻 [**방광곡곡**](https://github.com/arty0928/DisabledToilet_Android.git) | Android | 장애인 화장실 위치 공유 플랫폼(Android 앱) | 2024.04 ~ |
 | 👊 [**너로 정했다!**](https://github.com/arty0928/Oh-no-its-me.git) | Web    | 유레카 프론트엔드 대면반 2기를 위한 익명 밸런스게임 커뮤니티(Web) | 2025.03 ~ 2025.04 |
 | 👴 [**효자손**](https://github.com/arty0928/Dream_Android.git) | Android | 노인 키오스크 교육 플랫폼(Android 앱) | 2023.09 ~ 2024.03 |
+| 🐙 [**무물**](https://github.com/arty0928/moo-mool) | Web | 성향테스트 기반 AI 요금제 추천 서비스(Web) | 2025.06.04 ~ 2025.06.26 (약 3주) |
 
 <br>
 
