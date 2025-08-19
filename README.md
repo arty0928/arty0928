@@ -1,19 +1,25 @@
-
-
 # EunSeo Park ✨
 #### Android Developer for Socially Vulnerable Groups!
 - A developer with a background in Technology Management, bringing a <b> market-oriented perspective </b> to my work
+- Experienced in real-world app development: released **two apps**, organized **four one-day coding classes**, and tutored students from elementary to high school.
+
+<br>
 
 
-## 📌 About Me
-- **Background in Technology Management**
-  <br> market-oriented perspective to my development work
-- **Experience in Real-World App Development**
-  <br> Successfully developed and launched **two applications** and organized **four one-day classes** focused on app development.
-- **Coding Tutor**
-  <br> **elementary to high school students** in coding
+### 📱 App
+- 🚻 [**방광곡곡**](https://github.com/arty0928/DisabledToilet_Android.git) : Built an accessible toilet location-sharing Android app with Kakao Map, filtering, and real-time Firestore sync; implemented markers, detail pages, and user interaction; **3rd place in Hyundai AutoEver Barrier-Free App Contest**.  
+
+- 👴 [**효자손**](https://github.com/arty0928/Dream_Android.git) : Developed a kiosk-education Android app for seniors with dynamic training UI and Google login; organized real-world smartphone classes; **3rd place in Konkuk Univ. Self-Designed Major Awards**.  
 
 
+### 💻 Web
+- 🐙 [**무물**](https://github.com/arty0928/moo-mool) : Built an AI-based mobile plan recommendation web service with **AI chatbot**, meme-test, and **real-time WebSocket** interaction; implemented authentication, encryption, and nearby user features; **Excellence Award in LG U+ URECA Comprehensive Project**.  
+
+- 🌊 [**바다타 BADATA**](https://github.com/Ureca-Final-Project-Team2/fe_badata) : **Team leader** of a data/gifticon/Wi-Fi rental platform; oversaw project architecture and development, and built core features including trading community, recommendation system, and SOS data help. Implemented **KakaoMap API for store visualization, SSE for real-time SOS requests, clustering for large-scale map markers, router guard for access control, PortOne payment integration, and a personalized recommendation algorithm**; **Final Fusion Project leader (LG U+ URECA)**.  
+
+
+- 👊 [**너로 정했다!**](https://github.com/arty0928/Oh-no-its-me.git) : Built a web-based anonymous balance-game community for classmates; implemented voting, result aggregation, and interactive UI for real-time play.
+  
 <div align="center">
 
 ## 🔧 Skills
