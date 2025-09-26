@@ -10,7 +10,6 @@
 <div align="center">
   <h4>Programming Language</h4>
   <div>
-    <img src="https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=java&logoColor=white">
@@ -22,8 +21,6 @@
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </div>
 
   <h4>Cloud Platforms</h4>
@@ -62,9 +59,6 @@
 ## 🐔 Projects
 | 프로젝트 | 플랫폼 | 설명 | 기간 |
 |----------|--------|------|------|
-| 🚻 [**방광곡곡**](https://github.com/arty0928/DisabledToilet_Android.git) | Android | 장애인 화장실 위치 공유 플랫폼(Android 앱) | 2024.04 ~ 2025.01 (13개월) |
-| 👊 [**너로 정했다!**](https://github.com/arty0928/Oh-no-its-me.git) | Web    | 유레카 프론트엔드 대면반 2기를 위한 익명 밸런스게임 커뮤니티(Web) | 2025.03 ~ 2025.04 (3주) |
-| 👴 [**효자손**](https://github.com/arty0928/Dream_Android.git) | Android | 노인 키오스크 교육 플랫폼(Android 앱) | 2023.09 ~ 2024.03 (7개월) |
 | 🐙 [**무물**](https://github.com/arty0928/moo-mool) | Web | 성향테스트 기반 AI 요금제 추천 서비스(Web) | 2025.06.04 ~ 2025.06.26 (약 3주) |
 | 🌊 [**바다타 BADATA**](https://github.com/Ureca-Final-Project-Team2/fe_badata) | Web | 디지털 자원을 연결하는 통합형 데이터 공유 플랫폼 | 2025.06.30 ~ 2025.08.07 (6주) |
 
