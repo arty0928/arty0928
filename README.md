@@ -1,8 +1,14 @@
 # EunSeo Park ✨
 🧑‍💻 [FE+CS Study Leader](https://admitted-seat-34f.notion.site/FE-CS-255672106a20802c94d8ffe16ef84184?source=copy_link)
 #### Android Developer for Socially Vulnerable Groups!
-- A developer with a background in Technology Management, bringing a <b> market-oriented perspective </b> to my work
+- A developer with a background in Technology Management, bringing a <b>market-oriented perspective</b> to my work  
 - Experienced in real-world app development: released **two apps**, organized **four one-day coding classes**, and tutored students from elementary to high school.
+
+<br>
+
+## ✍️ Featured Tech Blog Posts
+- [**MooMool WebSocket-based Nearby Communication Development**](https://arty6848.tistory.com/189)  
+- [**How I Study Algorithms Effectively**](https://arty6848.tistory.com/201)  
 
 <br>
 
@@ -52,17 +58,14 @@
   </div>
 </div>
 
-
-
 <br>
 
 ## 🐔 Projects
-| 프로젝트 | 플랫폼 | 설명 | 기간 |
-|----------|--------|------|------|
-| 🐙 [**무물**](https://github.com/arty0928/moo-mool) | Web | 성향테스트 기반 AI 요금제 추천 서비스(Web) | 2025.06.04 ~ 2025.06.26 (약 3주) |
-| 🌊 [**바다타 BADATA**](https://github.com/Ureca-Final-Project-Team2/fe_badata) | Web | 디지털 자원을 연결하는 통합형 데이터 공유 플랫폼 | 2025.06.30 ~ 2025.08.07 (6주) |
+| Project | Platform | Description | Period |
+|----------|-----------|-------------|---------|
+| 🐙 [**MooMool**](https://github.com/arty0928/moo-mool) | Web | AI-based personality test & mobile plan recommendation service | 2025.06.04 ~ 2025.06.26 (3 weeks) |
+| 🌊 [**BADATA**](https://github.com/Ureca-Final-Project-Team2/fe_badata) | Web | Integrated data sharing platform connecting digital resources | 2025.06.30 ~ 2025.08.07 (6 weeks) |
 
-<br/>
 <br/>
 
 <div align="center">
@@ -73,6 +76,4 @@
 
 ### :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://arty6848.tistory.com/)](https://arty6848.tistory.com/)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:arty6848@naver.com)
-
-</div>
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:arty6848@naver.com)](mailto:arty6848@naver.com)
