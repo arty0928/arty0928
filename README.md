@@ -1,5 +1,4 @@
 # EunSeo Park ✨
-🧑‍💻 [FE+CS Study Leader](https://admitted-seat-34f.notion.site/FE-CS-255672106a20802c94d8ffe16ef84184?source=copy_link)
 #### Android Developer for Socially Vulnerable Groups!
 - A developer with a background in Technology Management, bringing a <b>market-oriented perspective</b> to my work  
 - Experienced in real-world app development: released **two apps**, organized **four one-day coding classes**, and tutored students from elementary to high school.
