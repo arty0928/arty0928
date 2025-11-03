@@ -7,7 +7,13 @@
 
 ## ✍️ Featured Tech Blog Posts
 - [**MooMool WebSocket-based Nearby Communication Development**](https://arty6848.tistory.com/189)  
-- [**How I Study Algorithms Effectively**](https://arty6848.tistory.com/201)  
+- [**How I Study Algorithms Effectively**](https://arty6848.tistory.com/201)
+
+<br>
+
+## Open Source Contribution
+### DevupUI, a zero-runtime CSS-in-JS library
+- [**Fix: Responsive table horizontal scroll & code block CSS issues in light mode**](https://github.com/dev-five-git/devup-ui/pull/461)
 
 <br>
 
