@@ -12,8 +12,12 @@
 <br>
 
 ## Open Source Contribution
+### brailify, Rust-based cross-platform Korean braille transcription library
+[Added test cases for validating braille conversion results and verified execution outcomes](https://github.com/dev-five-git/braillify/pull/78)
+
+
 ### DevupUI, a zero-runtime CSS-in-JS library
-- [**Fix: Responsive table horizontal scroll & code block CSS issues in light mode**](https://github.com/dev-five-git/devup-ui/pull/461)
+[Fix: Responsive table horizontal scroll & code block CSS issues in light mode](https://github.com/dev-five-git/devup-ui/pull/461)
 
 <br>
 
