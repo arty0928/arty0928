@@ -1,17 +1,17 @@
-# EunSeo Park ✨
-#### Android Developer | Social Impact & Accessibility Focused
+# EunSeo Park 
+#### Frontend Developer | Social Impact & Accessibility Focused
 - Bridging **Technology Management** and app development with a market-oriented perspective  
 - Released **2 real-world apps**, ran **4 coding workshops**, and mentored students from elementary to high school  
 
 <br>
 
-## ✍️ Featured Tech Blog
+## Featured Tech Blog
 - [WebSocket-based Nearby Communication in MooMool](https://arty6848.tistory.com/189)  
 - [Effective Algorithm Study Techniques](https://arty6848.tistory.com/201)
 
 <br>
 
-## 🛠 Open Source Contributions
+## Open Source Contributions
 
 ### brailify (Rust)
 - [Added unit tests for Korean braille transcription](https://github.com/dev-five-git/braillify/pull/78)
@@ -22,7 +22,7 @@
 
 <br>
 
-## 🔧 Skills
+## Skills
 
 | Category            | Skills |
 |--------------------|--------|
@@ -35,11 +35,11 @@
 
 <br>
 
-## 🐔 Projects
+## Projects
 | Project | Platform | Description | Period |
 |----------|-----------|-------------|---------|
-| 🐙 [**MooMool**](https://github.com/arty0928/moo-mool) | Web | AI-based personality test & mobile plan recommendation service | 2025.06.04 ~ 2025.06.26 (3 weeks) |
-| 🌊 [**BADATA**](https://github.com/Ureca-Final-Project-Team2/fe_badata) | Web | Integrated data sharing platform connecting digital resources | 2025.06.30 ~ 2025.08.07 (6 weeks) |
+| [**MooMool**](https://github.com/arty0928/moo-mool) | Web | AI-based personality test & mobile plan recommendation service | 2025.06.04 ~ 2025.06.26 (3 weeks) |
+| [**BADATA**](https://github.com/Ureca-Final-Project-Team2/fe_badata) | Web | Integrated data sharing platform connecting digital resources | 2025.06.30 ~ 2025.08.07 (6 weeks) |
 
 <br/>
 
@@ -49,6 +49,6 @@
   </a>
 </div>
 
-### :mailbox_with_mail: Contacts
+### Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://arty6848.tistory.com/)](https://arty6848.tistory.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:arty6848@naver.com)](mailto:arty6848@naver.com)
