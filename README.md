@@ -43,12 +43,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://solved.ac/arty0928/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arty0928" alt="Solved.ac Profile">
-  </a>
-</div>
-
 ### Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://arty6848.tistory.com/)](https://arty6848.tistory.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:arty6848@naver.com)](mailto:arty6848@naver.com)
