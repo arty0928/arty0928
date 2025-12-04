@@ -1,7 +1,7 @@
 # EunSeo Park 
 #### Frontend Developer | Social Impact & Accessibility Focused
 - Bridging **Technology Management** and app development with a market-oriented perspective  
-- Released **2 real-world apps**, ran **4 coding workshops**, and mentored students from elementary to high school  
+- Released **2 apps**, ran **4 coding workshops**, and mentored students from elementary to high school  
 
 <br>
 
@@ -38,9 +38,7 @@
 ## Projects
 | Project | Platform | Description | Period |
 |----------|-----------|-------------|---------|
-| [**MooMool**](https://github.com/arty0928/moo-mool) | Web | AI-based personality test & mobile plan recommendation service | 2025.06.04 ~ 2025.06.26 (3 weeks) |
-| [**BADATA**](https://github.com/Ureca-Final-Project-Team2/fe_badata) | Web | Integrated data sharing platform connecting digital resources | 2025.06.30 ~ 2025.08.07 (6 weeks) |
-
+| [**MooMool**](https://github.com/arty0928/moo-mool) | Web | AI-based personality test & mobile plan recommendation service | 2025.06.04 ~ 2025.06.26 (3 weeks) 
 <br/>
 
 ### Contacts
