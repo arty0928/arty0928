@@ -1,10 +1,3 @@
-# EunSeo Park 
-#### Frontend Developer | Social Impact & Accessibility Focused
-- Bridging **Technology Management** and app development with a market-oriented perspective  
-- Released **2 apps**, ran **4 coding workshops**, and mentored students from elementary to high school  
-
-<br>
-
 ## Featured Tech Blog
 - [WebSocket-based Nearby Communication in MooMool](https://arty6848.tistory.com/189)  
 - [Effective Algorithm Study Techniques](https://arty6848.tistory.com/201)
