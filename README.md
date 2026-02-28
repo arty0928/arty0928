@@ -28,12 +28,6 @@
 
 <br>
 
-## Projects
-| Project | Platform | Description | Period |
-|----------|-----------|-------------|---------|
-| [**MooMool**](https://github.com/arty0928/moo-mool) | Web | AI-based personality test & mobile plan recommendation service | 2025.06.04 ~ 2025.06.26 (3 weeks) 
-<br/>
-
 ### Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://arty6848.tistory.com/)](https://arty6848.tistory.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:arty6848@naver.com)](mailto:arty6848@naver.com)
